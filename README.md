@@ -16,7 +16,8 @@ la visione di alcuni video.
 ## Fase1
 ### Come utilizzare una fotoresistenza
 ![Sheet partitore di tensione](doc_utili/img/schema_partitore_foto.png)
-Il partitore ci permette di leggere il valore restituito dalla foto resistenza.
+
+<br>Il partitore ci permette di leggere il valore restituito dalla foto resistenza.
 Caratteristiche tecniche:
 ```
 Restitenza: 1k
