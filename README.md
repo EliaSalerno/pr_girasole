@@ -1,8 +1,7 @@
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="doc_utili/img/girasole2.png">
-</picture>
-
+![Girasole](doc_utili/img/girasole2.png)
 ![Logo](doc_utili/img/logo2.png)
+
 # Divari - Il pannello girasole
 ## Un pannello solare che insegue il sole
 Sfruttando i sensori di luminosità manipolare la rotazione di un servomotore
