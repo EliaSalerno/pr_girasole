@@ -1,6 +1,6 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="doc_utili/img/girasole2.png">
-  <img alt="Logo" src="doc_utili/img/logo2.png">
+  <source media="(prefers-color-scheme: dark)" srcset="doc_utili/img/logo2.png">
 </picture>
 
 # Divari - Il pannello girasole
