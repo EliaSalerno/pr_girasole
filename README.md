@@ -1,5 +1,5 @@
 ### Il sole va inseguito
-|![Logo](doc_utili/img/logo2.png)|Il sole è di chi lo segue|
+![Logo](doc_utili/img/logo2.png) Il sole è di chi lo segue
 --------------------------------------
 # Divari - Il pannello girasole
 ## Un pannello solare che insegue il sole
