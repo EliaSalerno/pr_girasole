@@ -1,5 +1,5 @@
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EliaSalerno/pr_girasole/tree/master/doc_utili/img/girasole.png">
+  <source media="(prefers-color-scheme: dark)" srcset="doc_utili/img/girasole.png">
   <img alt="Logo" src=".doc_utili/img/logo2.png">
 </picture>
 
