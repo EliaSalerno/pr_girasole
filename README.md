@@ -1,4 +1,4 @@
-<picture align="center">
+### Il sole va inseguito
 ![Girasole](doc_utili/img/girasole2.png)
 ![Logo](doc_utili/img/logo2.png)
 
