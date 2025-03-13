@@ -11,7 +11,7 @@ la visione di alcuni video.
  - [Fase1](#Fase1): studiamo il funzionamento di un partitore di tensione per la fotoresistenza;
  - [Fase2](#Fase2): studiamo il funzionamento di un servomotore per il movimento del pannello.
 
-##Fase1
+## Fase1
 ### Come utilizzare una fotoresistenza
-##Fase2
+## Fase2
 ### Cos'è un servomotore
