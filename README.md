@@ -1,7 +1,6 @@
 ### Il sole va inseguito
-![Girasole](doc_utili/img/girasole2.png)
-![Logo](doc_utili/img/logo2.png)
-
+|![Logo](doc_utili/img/logo2.png)|Il sole è di chi lo segue|
+--------------------------------------
 # Divari - Il pannello girasole
 ## Un pannello solare che insegue il sole
 Sfruttando i sensori di luminosità manipolare la rotazione di un servomotore
