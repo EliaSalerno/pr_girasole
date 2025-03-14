@@ -1,4 +1,4 @@
-![Logo](doc_utili/img/logo2.png) IL SOLE E' DI CHI LO SEGUE
+![Logo](doc_utili/img/logo2.png) IL SOLE E' DI CHI LO GUARDA
 --------------------------------------
 # Divari - Il pannello girasole
 ## Un pannello solare che insegue il sole
