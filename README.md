@@ -16,7 +16,7 @@ la visione di alcuni video.
  - [Fase2](#Fase2): studiamo il funzionamento di un servomotore per il movimento del pannello.
 
 ## Fase1
-### Come utilizzare una fotoresistenza
+|[foto resistenza](/arduino/doc_utili/img/fotoresistenza.png) ### Come utilizzare una fotoresistenza
 ![Sheet partitore di tensione](/arduino/doc_utili/img/schema_partitore_foto.png)
 
 Caratteristiche tecniche progetto:
