@@ -1,7 +1,0 @@
-Per estendere il range della luminosità accettata forse è meglio impostare il valore della condizione non a "lr" bensì a "lr-10" così da 
-incrementare il tempo di stop
-
-Sarebbe più utile utilizzare due fotoresistenze per ottenere un secondo valore che possa indicare la direzione di rotazione, ora, invece 
-bisogna obbligatoriamente effettuare il controllo in entrambi i sensi.
-Impostare la nuova partenza del ciclo for non da 90 ma da t... la prima volta è 90 ma la seconda da dove si trova il pannello....
-
