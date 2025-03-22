@@ -16,7 +16,7 @@ la visione di alcuni video.
  - [Fase2](#Fase2): studiamo il funzionamento di un servomotore per il movimento del pannello.
 
 ## Fase1
-|[foto resistenza](/arduino/doc_utili/img/fotoresistenza.png) ### Come utilizzare una fotoresistenza
+![foto resistenza](/arduino/doc_utili/img/fotoresistenza.png) Come utilizzare una fotoresistenza?
 ![Sheet partitore di tensione](/arduino/doc_utili/img/schema_partitore_foto.png)
 
 Caratteristiche tecniche progetto:
@@ -27,7 +27,7 @@ Negativo: sul capo libero della resistenza
 Per la lettura: pin analogico collegato all'incrocio tra fotoresistenza e resistenza.
 ```
 ## Fase2
-### Cos'è un servomotore
+![servo-motor](/arduino/doc_utili/img/servo_motor/servomotore.jpg) Cos'è un servomotore?
 Per spiegare il funzionamento del servomotore usiamo un grafico ad onda quadra ottenuto mediante l'uso di un oscilloscopio:
 ![sheet servo-motor](/arduino/doc_utili/img/servo_motor/quadra_servo.png)
 L'onda PWM si caratterizza per il "duty cycle", ovvero il rapporto tra il tempo in cui l'onda resta a 1 nel tempo T, mentre T è il periodo. 
