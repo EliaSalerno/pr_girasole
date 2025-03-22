@@ -1,4 +1,4 @@
-![Logo](doc_utili/img/logo2.png) IL SOLE E' DI CHI LO GUARDA
+![Logo](/arduino/doc_utili/img/logo2.png) IL SOLE E' DI CHI LO GUARDA
 --------------------------------------
 # Divari - Il pannello girasole
 ## Un pannello solare che insegue il sole
@@ -17,7 +17,7 @@ la visione di alcuni video.
 
 ## Fase1
 ### Come utilizzare una fotoresistenza
-![Sheet partitore di tensione](doc_utili/img/schema_partitore_foto.png)
+![Sheet partitore di tensione](/arduino/doc_utili/img/schema_partitore_foto.png)
 
 <br>Il partitore ci permette di leggere il valore restituito dalla foto resistenza.
 Caratteristiche tecniche:
