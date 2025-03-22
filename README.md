@@ -21,6 +21,7 @@ la visione di alcuni video.
 
 <br>Il partitore ci permette di leggere il valore restituito dalla foto resistenza.
 Caratteristiche tecniche:
+
 ```
 Restitenza: 1k
 Alimentazione: 5v sul capo libero della foto resistenza
@@ -29,3 +30,14 @@ Per la lettura: pin analogico collegato all'incrocio tra fotoresistenza e resist
 ```
 ## Fase2
 ### Cos'è un servomotore
+![sheet servo-motor](/arduino/doc_utili/img/servo_motor/quadra_servo.png)
+<br>Il Servo è un motore in grado di effettuare rotazioni di massimo 270° ed è molto utilizzato nella robotica e nella modellistica.
+Caratteristiche tecniche:
+```
+Restitenza: non servono resistenze
+Alimentazione: 5v sul filo rosso
+Negativo: sul filo nero
+Per la lettura: filo bianco su un pwm (pulse with modulation).
+```
+Per spiegare il funzionamento del servomotore usiamo un grafico ad onda quadra ottenuto mediante l'uso di un oscilloscopio:
+
