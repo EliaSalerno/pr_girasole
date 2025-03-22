@@ -27,8 +27,8 @@ Negativo: sul capo libero della resistenza
 Per la lettura: pin analogico collegato all'incrocio tra fotoresistenza e resistenza.
 ```
 ## Fase2
-![servo-motor](/arduino/doc_utili/img/servo_motor/servomotore.jpg) Cos'è un servomotore?
-Per spiegare il funzionamento del servomotore usiamo un grafico ad onda quadra ottenuto mediante l'uso di un oscilloscopio:
+![servo-motor](/arduino/doc_utili/img/servo_motor/servomotore.png) Cos'è un servomotore?
+<br>Per spiegare il funzionamento del servomotore usiamo un grafico ad onda quadra ottenuto mediante l'uso di un oscilloscopio:
 ![sheet servo-motor](/arduino/doc_utili/img/servo_motor/quadra_servo.png)
 L'onda PWM si caratterizza per il "duty cycle", ovvero il rapporto tra il tempo in cui l'onda resta a 1 nel tempo T, mentre T è il periodo. 
 Il Servo è un motore in grado di effettuare rotazioni di massimo 270° ed è molto utilizzato nella robotica e nella modellistica.
