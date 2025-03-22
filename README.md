@@ -19,7 +19,6 @@ la visione di alcuni video.
 ### Come utilizzare una fotoresistenza
 ![Sheet partitore di tensione](/arduino/doc_utili/img/schema_partitore_foto.png)
 
-<br>Il partitore ci permette di leggere il valore restituito dalla foto resistenza.
 Caratteristiche tecniche:
 
 ```
@@ -31,7 +30,8 @@ Per la lettura: pin analogico collegato all'incrocio tra fotoresistenza e resist
 ## Fase2
 ### Cos'è un servomotore
 ![sheet servo-motor](/arduino/doc_utili/img/servo_motor/quadra_servo.png)
-<br>Il Servo è un motore in grado di effettuare rotazioni di massimo 270° ed è molto utilizzato nella robotica e nella modellistica.
+L'onda PWM si caratterizza per il "duty cycle", ovvero il rapporto tra il tempo in cui l'onda resta a 1 nel tempo T, mentre T è il periodo. 
+Il Servo è un motore in grado di effettuare rotazioni di massimo 270° ed è molto utilizzato nella robotica e nella modellistica.
 Caratteristiche tecniche:
 ```
 Restitenza: non servono resistenze
