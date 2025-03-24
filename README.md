@@ -1,5 +1,5 @@
 ![Logo](/arduino/doc_utili/img/Simbolo%20progetto%20.png) 
-# IL SOLE E' DI CHI LO GUARDA
+# IL SOLE E' DI CHI LO CERCA
 --------------------------------------
 # Divari - Il pannello girasole
 ## Un pannello solare che insegue il sole
