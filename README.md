@@ -1,7 +1,10 @@
-![Logo](/arduino/doc_utili/img/logo2.png) IL SOLE E' DI CHI LO GUARDA
+![Logo](/arduino/doc_utili/img/Simbolo%20progetto%20.png) 
+# IL SOLE E' DI CHI LO GUARDA
 --------------------------------------
 # Divari - Il pannello girasole
 ## Un pannello solare che insegue il sole
+
+Obiettivo progetto: gestire la rotazione di un pannello solare in modo 
 
 (da semplificare) Sfruttando i sensori di luminosità manipolare la rotazione di un servomotore
 per simulare la rotazione di un pannello solare. In realtà secondo il progetto 
