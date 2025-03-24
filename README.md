@@ -16,8 +16,16 @@ la visione di alcuni video.
  - [Fase2](#Fase2): studiamo il funzionamento di un servomotore per il movimento del pannello.
 
 ## Fase1
-![foto resistenza](/arduino/doc_utili/img/fotoresistenza.png) Come utilizzare una fotoresistenza?
+![foto resistenza](/arduino/doc_utili/img/fotoresistenza.png) COME UTILIZZARE LA FOTORESISTENZA?
 ![Sheet partitore di tensione](/arduino/doc_utili/img/schema_partitore_foto.png)
+
+<br> Si tratta di un componente elettronico la cui resistenza è inversamente proporzionale alla 
+quantità di luce che lo colpisce. 
+Il fuzionamento della fotoresistenza si basa sull'effetto conduttivo dei materiali semiconduttori: 
+quando una radiazione luminosa colpisce il semiconduttore, i fotoni possono rompere il legame covalente
+(elettroce-lacuna) generando una coppia elettrone libero-lacuna, contribuendo così ad aumentare 
+i portatori di carica e di conseguenza la conducibilità del materiale (quindi la resistenza del materiale 
+diminuisce).
 
 Caratteristiche tecniche progetto:
 ```
@@ -40,5 +48,3 @@ Alimentazione: 5v sul filo rosso
 Negativo: sul filo nero
 Per la lettura: filo bianco su un pwm (pulse with modulation).
 ```
-
-
