@@ -1,0 +1,45 @@
+* 2d8b914 Master: update readme
+* 7eb60c8 Master: update readme
+* 75caaac Master: update readme
+* 3822300 Master: update readme
+* 8382b83 Master: update readme
+* 66e1da4 Master: update reamde
+* b93793b Master: update readme
+* 2c21d2d Master: update readme
+* 61684f7 Master: update readme
+* c3187b7 Master: update readme
+* 1c397d3 Master: update readme
+* 849ab26 Master: update readme
+* f549976 Master: update readme
+* 90f00c4 Master: add python-repo
+* 8fcb833 Master: create arduino-repo
+* 3030d65 Master: add note in sketch_finale directory
+* c09e85b Master: update sketch finale
+* 858db8c Update README.md
+* b75de02 Master: update readme 2.2
+* 0dbe4a8 Master: update readme 2.1
+* 659b141 Master: update readme 2.0 with foto section
+* 4e8bf42 Master: test readme 1.9.3
+* 96565a7 Master: test readme 1.9.2
+* 15f9416 Master: test readme 1.9.1
+* d9d2e62 Master: test readme 1.9
+* b340ae4 Master: test readme 1.8
+* 63b9e3f Master: test readme 1.7
+* bf31945 Master: test readme 1.6
+* d7250e2 Master: test readme 1.5
+* dca3c6e Master: test readme 1.5
+* 6e4d8e6 Master: test readme 1.4
+* 3f2fcb8 Master: test readme 1.3
+* be8608b Master: test readme 1.2
+* 3be3481 Master: test readme
+* 92a5813 Master: update readme
+* 1c20b32 Master: update readme
+* 1d52db2 Master: update repository
+* e493858 Master: update README
+* 2277f03 Master: add img directory
+* 1b5a0c3 Master: add directory partitore
+* 1b04b6f Master: alter directory sketch_finale
+* 8295bdb Master: update sketch servo-foto
+* fefbd07 Master: add sketch with servo like motor panel
+* 58aeb47 Master: add doc_utili and add foto progetto
+* e408324 Master: add readme

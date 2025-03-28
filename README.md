@@ -4,9 +4,14 @@
 # Divari - Il pannello girasole
 ## Un pannello solare che insegue il sole
 
-Obiettivo progetto: gestire la rotazione di un pannello solare in modo 
+Quando durante il giorno il sole cambia direzione, per effetto del moto terrestre intorno ad esso, solitamente il pannello resta fisso e questo ha una 
+conseguenza sul suo rendimento.
+In questa situazione abbiamo un quantitativo ridotto di raggi solari che colpiscono la superficie del pannello. 
 
-(da semplificare) Sfruttando i sensori di luminosità manipolare la rotazione di un servomotore
+Per ovviare a questo problema, la superficie del pannello deve sempre avere il massimo dell'esposizione, e per raggiungere tale obiettivo 
+dobbiamo progettare un sistema che permetta al pannello di roteare con un movimento simile al girasole.
+
+Sfruttando i sensori di luminosità manipolare la rotazione di un servomotore
 per simulare la rotazione di un pannello solare. In realtà secondo il progetto 
 da me ideato, il pannello gira grazie al servomotore...
 Ebbene per iniziare a lavorare in modo adeguato su questo progetto vi propongo 
