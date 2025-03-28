@@ -15,8 +15,8 @@ Sfruttando i sensori di luminosità manipolare la rotazione di un servomotore pe
 da me ideato, il pannello gira grazie al servomotore...
 Ebbene per iniziare a lavorare in modo adeguato su questo progetto vi propongo la visione di alcuni video. 
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=m9kkf-XXQVU)
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=pDeTyFnBG2M)
+[![Watch the video](https://blog.hootsuite.com/wp-content/uploads/2016/04/youtube-video-article-620x375.jpg)](https://www.youtube.com/watch?v=m9kkf-XXQVU)
+[![Watch the video](https://blog.hootsuite.com/wp-content/uploads/2016/04/youtube-video-article-620x375.jpg)](https://www.youtube.com/watch?v=pDeTyFnBG2M)
 
 --------------------------------------
 ## Progetto diviso in più fasi:
