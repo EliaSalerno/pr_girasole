@@ -21,8 +21,8 @@ Ebbene per iniziare a lavorare in modo adeguato su questo progetto vi propongo l
  - [Fase1](#Fase1): studiamo il funzionamento di un partitore di tensione per la fotoresistenza;
  - [Fase2](#Fase2): studiamo il funzionamento di un servomotore per il movimento del pannello.
 
-## Fase - 1
-COME UTILIZZARE LA FOTORESISTENZA?
+## Fase 1 - COME UTILIZZARE LA FOTORESISTENZA?
+
 ![Sheet partitore di tensione](/arduino/doc_utili/img/schema_partitore_foto.png)
 
 <br> Si tratta di un componente elettronico la cui resistenza è inversamente proporzionale alla 
@@ -40,8 +40,8 @@ Alimentazione: 5v sul capo libero della foto resistenza
 Negativo: sul capo libero della resistenza
 Per la lettura: pin analogico collegato all'incrocio tra fotoresistenza e resistenza.
 ```
-## Fase2
-![servo-motor](/arduino/doc_utili/img/servo_motor/servomotore.png) Cos'è un servomotore?
+## Fase 2 - Cos'è un servomotore?
+![servo-motor](/arduino/doc_utili/img/servo_motor/servomotore.png) 
 <br>Per spiegare il funzionamento del servomotore usiamo un grafico ad onda quadra ottenuto mediante l'uso di un oscilloscopio:
 ![sheet servo-motor](/arduino/doc_utili/img/servo_motor/quadra_servo.png)
 L'onda PWM si caratterizza per il "duty cycle", ovvero il rapporto tra il tempo in cui l'onda resta a 1 nel tempo T, mentre T è il periodo. 
