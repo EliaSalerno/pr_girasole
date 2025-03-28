@@ -17,9 +17,13 @@ Ebbene per iniziare a lavorare in modo adeguato su questo progetto vi propongo l
 
 --------------------------------------
 ## Progetto diviso in più fasi:
-|-----------|-----------|
-|  [Fase1](#Fase1)  |  funzionamento partitore per la fotoresistenza |
-|  [Fase2](#Fase2)  |  servomotore per il movimento del pannello     |
+|-------------------|-------------------------|
+|  [Fase1](#Fase1)  | funzionamento partitore |
+|                   |  per la fotoresistenza  |
+|-------------------|-------------------------|
+|  [Fase2](#Fase2)  |  servomotore per il     |
+|                   |  movimento del pannello |
+|-------------------|-------------------------|
 ## Fase - 1
 COME UTILIZZARE LA FOTORESISTENZA?
 ![Sheet partitore di tensione](/arduino/doc_utili/img/schema_partitore_foto.png)
