@@ -11,20 +11,17 @@ In questa situazione abbiamo un quantitativo ridotto di raggi solari che colpisc
 Per ovviare a questo problema, la superficie del pannello deve sempre avere il massimo dell'esposizione, e per raggiungere tale obiettivo 
 dobbiamo progettare un sistema che permetta al pannello di roteare con un movimento simile al girasole.
 
-Sfruttando i sensori di luminosità manipolare la rotazione di un servomotore
-per simulare la rotazione di un pannello solare. In realtà secondo il progetto 
+Sfruttando i sensori di luminosità manipolare la rotazione di un servomotore per simulare la rotazione di un pannello solare. In realtà secondo il progetto 
 da me ideato, il pannello gira grazie al servomotore...
-Ebbene per iniziare a lavorare in modo adeguato su questo progetto vi propongo 
-la visione di alcuni video. 
+Ebbene per iniziare a lavorare in modo adeguato su questo progetto vi propongo la visione di alcuni video. 
 
 --------------------------------------
 ## Progetto diviso in più fasi:
-
- - [Fase1](#Fase1): studiamo il funzionamento di un partitore di tensione per la fotoresistenza;
- - [Fase2](#Fase2): studiamo il funzionamento di un servomotore per il movimento del pannello.
-
+|-----------|-----------|
+|  [Fase1](#Fase1)  |  funzionamento partitore per la fotoresistenza |
+|  [Fase2](#Fase2)  |  servomotore per il movimento del pannello     |
 ## Fase - 1
-![foto resistenza](/arduino/doc_utili/img/fotoresistenza.png) COME UTILIZZARE LA FOTORESISTENZA?
+COME UTILIZZARE LA FOTORESISTENZA?
 ![Sheet partitore di tensione](/arduino/doc_utili/img/schema_partitore_foto.png)
 
 <br> Si tratta di un componente elettronico la cui resistenza è inversamente proporzionale alla 
