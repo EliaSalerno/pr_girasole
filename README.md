@@ -38,7 +38,7 @@ diminuisce).
 
 Caratteristiche tecniche progetto:
 ```
-Restitenza: 1k
+Resistenza: 1k
 Alimentazione: 5v sul capo libero della foto resistenza
 Negativo: sul capo libero della resistenza
 Per la lettura: pin analogico collegato all'incrocio tra fotoresistenza e resistenza.
@@ -52,7 +52,7 @@ Il Servo è un motore in grado di effettuare rotazioni di massimo 270° ed è mo
 
 Caratteristiche tecniche progetto:
 ```
-Restitenza: non servono resistenze
+Resistenza: non servono resistenze
 Alimentazione: 5v sul filo rosso
 Negativo: sul filo nero
 Per la lettura: filo bianco su un pwm (pulse with modulation).
